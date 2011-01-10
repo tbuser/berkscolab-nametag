@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="berks_colab_logo.svg"
+   inkscape:export-filename="/Users/abuser/Dropbox/Documents/berks_colab_logo/colab_green_black.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86831672"
+     inkscape:cx="547.87402"
+     inkscape:cy="343.86435"
+     inkscape:current-layer="name"
+     id="namedview2820"
+     showgrid="true"
+     inkscape:window-width="1630"
+     inkscape:window-height="1006"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs2818">
+    <inkscape:perspective
+       id="perspective2825"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata2822">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ellipse"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="ellipse"
+       sodipodi:cx="526.88147"
+       sodipodi:cy="373.26205"
+       sodipodi:rx="240.11975"
+       sodipodi:ry="157.77654"
+       d="m 767.00122,373.26205 a 240.11975,157.77654 0 1 1 -480.2395,0 240.11975,157.77654 0 1 1 480.2395,0 z"
+       transform="translate(-0.70037842,-1.2148132)"
+       inkscape:label="ellipse" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Name"
+     style="display:inline">
+    <g
+       id="name"
+       inkscape:label="name"
+       transform="translate(0,0.22921753)">
+      <g
+         id="name_email"
+         transform="translate(0,0.77954105)"
+         inkscape:label="name_email">
+        <text
+           inkscape:label="name"
+           xml:space="preserve"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+           x="310.81488"
+           y="370.03552"
+           id="text2823"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan2825"
+             x="310.81488"
+             y="370.03552">Tony Buser</tspan></text>
+        <text
+           inkscape:label="email"
+           xml:space="preserve"
+           style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+           x="308.35394"
+           y="414.78314"
+           id="email"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan2829"
+             x="308.35394"
+             y="414.78314">tbuser@berkscolab.org</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Gear"
+     style="display:none">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccssscccccc"
+       id="gear"
+       d="m 436.47988,245.79648 5.79673,28.21402 -34.96048,14.49182 -15.85095,-24.05478 -36.66348,36.64711 24.05478,15.86731 -14.47544,34.96049 -28.23039,-5.79673 0,51.84305 28.23039,-5.79674 14.47544,34.9605 -24.05478,15.86731 36.66348,36.6471 15.85095,-24.05478 34.96048,14.49182 -5.79673,28.21402 51.84304,0 -5.78035,-28.21402 17.47206,-7.23772 -18.37268,-44.53983 c -5.92326,2.46615 -12.42406,3.83174 -19.24055,3.83174 -27.66257,0 -50.07455,-22.42836 -50.07455,-50.09093 0,-27.66257 22.41198,-50.09093 50.07455,-50.09093 6.34249,0 12.4114,1.1899 17.99605,3.34049 l 0,-0.58949 19.61718,-43.44271 -17.47206,-7.2541 5.78035,-28.21402 -51.84304,0 z"
+       style="fill:#64be32;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:label="gear" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="CoLab"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#64be32;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="573.38928"
+       y="408.64413"
+       id="colab"
+       sodipodi:linespacing="125%"
+       inkscape:label="colab"><tspan
+         sodipodi:role="line"
+         id="tspan2821"
+         x="573.38928"
+         y="408.64413"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#64be32;fill-opacity:1;stroke-width:1.77165353;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">CoLab</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Berks"
+     style="display:none">
+    <text
+       sodipodi:linespacing="100%"
+       id="berks"
+       y="324.57056"
+       x="568.02551"
+       style="font-size:50px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold Italic"
+       xml:space="preserve"
+       inkscape:label="berks"><tspan
+         y="324.57056"
+         x="568.02551"
+         id="tspan3654"
+         sodipodi:role="line">Berks</tspan></text>
+  </g>
+  <g
+     id="g4903"
+     transform="translate(313.01348,381.69076)"
+     inkscape:label="Gear8"
+     style="stroke-width:3.54330708999999988;stroke-miterlimit:0;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;fill:none" />
+</svg>

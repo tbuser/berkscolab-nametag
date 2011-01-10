@@ -1,0 +1,5 @@
+2D SVG to 3D STL using Inkscape and OpenSCAD.
+
+Basically save as EPS for each object in Inkscape then use pstoedit to convert to a DXF format that OpenSCAD can extrude.
+
+pstoedit -dt -f dxf:-polyaslines in.eps out.dxf
